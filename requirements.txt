@@ -6,3 +6,7 @@ pymupdf
 transformers
 torch
 tensorflow
+google-generativeai
+python-dotenv
+streamlit
+langchain-text-splitters 
