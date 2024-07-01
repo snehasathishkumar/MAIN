@@ -16,6 +16,6 @@ if st.session_state["uploaded_file_sum"]:
     extracted_text = converter(st.session_state["uploaded_file_sum"])
     # print(summarizer(extracted_text))
     st.write(summarizer(extracted_text))
-
+        
 
 
